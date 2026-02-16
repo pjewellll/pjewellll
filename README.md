@@ -19,17 +19,17 @@
   🏵️ [View Badge](./css_badge.png)
 
 - 💻 **AL Class ASEAN Badges** – Cisco Networking Academy 
-  🏵️ [View Badge](./badge1.png)
-  🏵️ [View Badge](./badge2.png)
-  🏵️ [View Badge](./badge3.png)
-  🏵️ [View Badge](./badge4.png)
-  🏵️ [View Badge](./badge5.png)
-  🏵️ [View Badge](./badge6.png)
-  🏵️ [View Badge](./badge7.png)
-  🏵️ [View Badge](./badge8.png)
-  🏵️ [View Badge](./badge9.png)
-  🏵️ [View Badge](./badge10.png)
-  🏵️ [View Badge](./badge11.png)
+  🏵️ [View Badge 1](./badge1.png)
+  🏵️ [View Badge 2](./badge2.png)
+  🏵️ [View Badge 3](./badge3.png)
+  🏵️ [View Badge 4](./badge4.png)
+  🏵️ [View Badge 5](./badge5.png)
+  🏵️ [View Badge 6](./badge6.png)
+  🏵️ [View Badge 7](./badge7.png)
+  🏵️ [View Badge 8](./badge8.png)
+  🏵️ [View Badge 9](./badge9.png)
+  🏵️ [View Badge 10](./badge10.png)
+  🏵️ [View Badge 11](./badge11.png)
   
   
   
