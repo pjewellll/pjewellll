@@ -18,7 +18,7 @@
 - 💻 **CSS Essentials Verified** – Cisco Networking Academy 
   🏵️ [View Badge](./css_badge.png)
 
-- 💻 **AL Class ASEAN Badges** – Cisco Networking Academy 
+- 💻 **AI Class ASEAN Badges** – Cisco Networking Academy 
   🏵️ [View Badge 1](./badge1.png)
   🏵️ [View Badge 2](./badge2.png)
   🏵️ [View Badge 3](./badge3.png)
