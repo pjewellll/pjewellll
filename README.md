@@ -30,10 +30,10 @@
   🏵️ [View Badge 9](./badge9.png)
   🏵️ [View Badge 10](./badge10.png)
   🏵️ [View Badge 11](./badge11.png)
-  🏵️ [View Badge 12](./badge10.png)
-  🏵️ [View Badge 13](./badge11.png)
-  🏵️ [View Badge 14](./badge10.png)
-  🏵️ [View Badge 15](./badge11.png)
+  🏵️ [View Badge 12](./badge12.png)
+  🏵️ [View Badge 13](./badge13.png)
+  🏵️ [View Badge 14](./badge14.png)
+  🏵️ [View Badge 15](./badge15.png)
   
   
   
