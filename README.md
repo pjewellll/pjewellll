@@ -24,10 +24,10 @@
 - 💻 **CSS Essentials Verified** – Cisco Networking Academy 
   🏵️ [View Badge](./css_badge.png)
 
-- 💻 **HTML Essentials Verified** – Cisco Networking Academy 
+- 💻 **Python Essentials 11 Verified** – Cisco Networking Academy 
   🏵️ [View Badge](./py1_badge.png)
 
-- 💻 **HTML Essentials Verified** – Cisco Networking Academy 
+- 💻 **Python Essentials 2 Verified** – Cisco Networking Academy 
   🏵️ [View Badge](./py2_badge.png)
 
 - 💻 **AI Class ASEAN Badges** – Cisco Networking Academy 
