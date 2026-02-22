@@ -9,6 +9,12 @@
 - 🤖 AI Class ASEAN Certificate of Completion  – ASEAN Foundation
   📄[View Certification](./ai_cert.png)
 
+  - 💻 Python Essentials 1 Certificate of Completion  – Cisco Networking Academy
+  📄[View Certification](./py1_cert.png)
+
+- 💻 Python Essentials 2 Certificate of Completion  – Cisco Networking Academy
+  📄[View Certification](./py2_cert.png)
+
 
 ## 👩‍💻🏵️ 𝐁𝐀𝐃𝐆𝐄𝐒 🏵️👩‍💻
 
